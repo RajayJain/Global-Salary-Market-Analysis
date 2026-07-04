@@ -1,4 +1,4 @@
-# Data Jobs Dashboard 2.0 (Power BI)
+# Global Salary Market Analysis - 2
 
 <img src="https://github.com/RajayJain/Power_BI_Data_Analytics/blob/10a702e425a771a78ff4435a9d134241925287a6/Resources/Project2_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 
