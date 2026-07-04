@@ -1,4 +1,4 @@
-# 📊 Power BI for Data Analytics - 
+# 📊 Global Salary Market Analysis 
 
 📌 Overview
 
